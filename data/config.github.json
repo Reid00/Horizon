@@ -1,6 +1,6 @@
 {
   "ai": {
-    "provider": "openrouter",
+    "provider": "deepseek",
     "model": "deepseek/deepseek-v4.1-flash-1017",
     "base_url": "https://openrouter.ai/api/v1",
     "api_key_env": "DEEPSEEK_API_KEY",
